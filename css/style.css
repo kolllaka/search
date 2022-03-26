@@ -1,5 +1,6 @@
 body {
 	background: linear-gradient(45deg, #eecfba, #c5dde8);
+	font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
 }
 
 ._wrapper {
@@ -14,7 +15,6 @@ body {
 }
 
 .content__logo .text__logo {
-	font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-size: 14px;
 	opacity: 0.6;
 }
@@ -24,7 +24,6 @@ body {
 }
 
 .content__title .text__title {
-	font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
 	font-size: 36px;
 }
 
@@ -44,7 +43,19 @@ body {
 	font-size: 24px;
 	opacity: 0.8;
 }
-.text__text_g {
+
+.text__spisok {
+	font-size: 20px;
 }
-.text__text_p {
+.text__spisok_g {
+	color: #0f0;
+	font-style: italic;
+}
+.text__spisok_b {
+	font-weight: bold;
+}
+
+.text__spisok_p {
+	opacity: 0.3;
+	text-decoration: line-through;
 }
