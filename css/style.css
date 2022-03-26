@@ -1,0 +1,51 @@
+body {
+	background: linear-gradient(45deg, #eecfba, #c5dde8);
+}
+
+._wrapper {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.content {
+	padding: 10px 0;
+	text-align: center;
+}
+.content__logo {
+}
+
+.content__logo .text__logo {
+	font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-size: 14px;
+	opacity: 0.6;
+}
+.content__title {
+	margin: 0 10px;
+	padding: 30px;
+}
+
+.content__title .text__title {
+	font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-size: 36px;
+}
+
+.content__img {
+	height: 400px;
+	background: url("../bg.jpg") 0 0 / cover no-repeat;
+	box-shadow: 0 0 10px #fff;
+}
+
+.content__text {
+}
+.textcontent {
+	text-align: justify;
+}
+.textcontent__spisok {
+}
+.text__text {
+	font-size: 24px;
+	opacity: 0.8;
+}
+.text__text_g {
+}
+.text__text_p {
+}
