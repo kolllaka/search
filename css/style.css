@@ -30,10 +30,9 @@ body {
 
 .content__img {
 	height: 400px;
-	background: url("../bg.jpg") 0 0 / cover no-repeat;
 	box-shadow: 0 0 10px #fff;
+	background: url("../bg.jpg") 0 0 / cover no-repeat;
 }
-
 .content__text {
 }
 .textcontent {
